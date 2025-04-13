@@ -1,0 +1,12 @@
+# Django
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.sqlite3
+backend/venv
+backend/.env
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
